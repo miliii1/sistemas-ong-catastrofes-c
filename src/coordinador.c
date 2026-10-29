@@ -13,7 +13,7 @@ void coordinador(char *idCoordinador, char idMision[][10], char tipoMision[][30]
         printf("\n");
         printf("[1] Crear mision\n");
         printf("[2] Misiones activas\n");
-        printf("[3] Asignar trabajadores\n"); // relacionado con trabaj (asignapersonal a mision)
+        printf("[3] Asignar trabajadores\n"); // relacionado con Trabajadores (asigna personal a misiones)
         printf("[4] Stock y compra de insumos\n");
         printf("[5] Cerrar sesion\n");
         printf("------------------------------------------------------\n");
