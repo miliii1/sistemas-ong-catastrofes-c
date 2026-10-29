@@ -51,30 +51,22 @@ organización durante una crisis.
 |---|---|---|
 | 🔑 Admin | Alta/baja de usuarios | *[Lautaro]* |
 | 🧭 Coordinador | Crea misiones, asigna trabajadores, descuenta stock | *[Milagros]* |
-| 🛠️ Trabajador | Ve y actualiza el estado de su misión | *[Diego]* |
+| 🛠️ Trabajador | Ve y actualiza el estado de su misión | *[...]* |
+| 🧮 Finanzas | Ve estado financiero, registrar donación, distribuir fondos a una misión | *[Jesús]* |
 | 🤝 Colaborador | Ve misiones públicas, simula donaciones | *[Máximo]* |
 
 ---
 
 ## 📊 Estado actual del proyecto
 
-> Actualizado al *07/09/2026*
+> Actualizado al *29/10/2026*
 
-- ⬜ **Coordinador** -- en desarrollo: *[todo]*.
+- ✅ **Coordinador** -- Finalizado*.
 - ⬜ **Administrador** -- en desarrollo: *[todo]*
 - ⬜ **Trabajador** -- en desarrollo: *[todo]*
+- ✅ **Finanzas** -- Finalizado*.
 - ⬜ **Colaborador** -- en desarrollo: *[todo]*
 
-<details>
-<summary>📋 Ver detalle del módulo Coordinador</summary>
-
-- Menú principal con 5 opciones (crear misión, ver misiones activas,
-  asignar trabajadores, ver stock, cerrar sesión)
-- Creación de misión con vista previa antes de confirmar
-- Listado de misiones activas en formato tabla
-- Asignación de trabajadores a una misión existente
-
-</details>
 
 ---
 
@@ -95,6 +87,6 @@ organización durante una crisis.
 
 - *Administrador: Pizarro,  Lautaro*.
 - *Coordinador: González Jara, Milagros*.
-- *Trabajador: Medrano, Diego*.
+- *Trabajador: *.
 - *Colaborador: Iwanoff, Máximo*.
 
